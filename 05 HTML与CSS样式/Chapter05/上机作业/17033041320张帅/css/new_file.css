@@ -1,0 +1,25 @@
+
+body{
+background: url(../img/h_bg.jpg) no-repeat 24px -88px;}
+.nav ul{
+  list-style: none;
+}                                       
+.nav  li{ss
+width: 85px;
+float: left;
+text-align: center;
+font-weight: bold;
+line-height: 20px;
+}
+.nav li a{
+padding: 8px 12px;
+text-decoration: none;
+}
+.nav li a:link,
+.nav li a:active,
+.nav li a:visited{
+color: #333;
+font-size: 13px;
+}
+.nav li a:hover{
+background: url(../img/nav_bg.gif) no-repeat;}

@@ -1,0 +1,26 @@
+body{
+  background: url(../img/h_bg.jpg) no-repeat 24px -5px;
+}
+.nur ul {
+ list-style: none;
+}
+.nur li{
+ width: 84px;
+ float: left;
+ text-align: center;
+ font-weight: bold;
+ line-height: 24px;
+}
+.nur li a{
+ padding: 8px 10px;
+ text-decoration: none;
+}
+.nur li a:link,
+.nur li a:visited{
+ color: #333;
+ font-size: 13px;
+ }
+.nur li a:hover{
+ background: url(../img/nav_bg.gif) no-repeat;
+}
+.nur li a:active,
