@@ -1,0 +1,28 @@
+#righ{
+      width: 250px;
+      height: 270px;
+      padding-top: 32px;
+      background: url(../img/bg.gif) no-repeat;
+}
+#right dl dt{
+      float: left;
+      margin: 0PX;
+      width: 90PX;
+      padding: 2PX 0PX;
+      text-align: center;
+}
+#right dl dt img{
+      border: 1PX solid #9EA0A2;
+      width:60PX;
+      height: 47PX;
+      vertical-align: middle;
+}
+#right dl dd a{
+      font: 12px/47px "微软雅黑";
+      color: #3333;
+      text-decoration: none;
+}
+#right dl dd a:hover{
+       color: #ff7300;
+}
+
