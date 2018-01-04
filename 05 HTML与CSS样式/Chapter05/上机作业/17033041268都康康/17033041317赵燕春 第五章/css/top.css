@@ -1,0 +1,42 @@
+.top_menu {
+float: right;
+}
+.top_menu ul{
+list-style: none;
+}
+.top_menu li {
+float: left;
+}
+.top_menu ul li a {
+font:12px/28px 宋体;
+}
+.top_menu ul li a :link {
+color: pink;
+text-decoration: none;
+}
+.top_menu ul li a :visited {
+color: pink;
+text-decoration: none;
+}
+.top_menu ul li a :active {
+color: pink;
+text-decoration: none;
+}
+.top_menu ul li a :hover {
+color: blueviolet;
+}
+
+.p1{width: 28px;height: 26px;background: url(../img/icon.gif)no-repeat;}
+.p2{width: 28px;height: 26px;background: url(../img/icon.gif)no-repeat -28px 0px;}
+.p3{width: 28px;height: 26px;background: url(../img/icon.gif)no-repeat -84px 0px;}
+.p4{width: 28px;height: 26px;background: url(../img/icon.gif)no-repeat -112px 0px;}
+
+.text{padding: 0px 5px;text-align: center;}
+
+.btn{
+padding: 0px 5px;
+text-align: center;
+width: 38px;
+height: 26px;
+background: url(../img/icon.gif)no-repeat 0px 25px;
+}
