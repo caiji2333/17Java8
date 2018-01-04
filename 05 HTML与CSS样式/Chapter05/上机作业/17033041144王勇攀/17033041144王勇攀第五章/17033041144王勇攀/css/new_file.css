@@ -1,0 +1,30 @@
+body{
+background: url(../img/h_bg.jpg) no-repeat 24px -3px;
+}
+.nav ul{
+   list-style: none;
+}
+.nav li{
+width: 84px;
+float: left;
+text-align: center;
+ font-weight: bold;
+ line-height: 185px;           
+}
+.nav li a {
+padding: 8px 10px;
+text-decoration: none;
+}
+ /*未访问状态*/
+.nav li a:link,
+ /*激活选定状态*/
+.nav li a:active,
+ /*已访问状态*/
+.nav li a:visited{
+color: #333;
+font-size: 13px;
+}
+/*鼠标移上状态*/
+.nav li a:hover{
+background: url(../img/nav_bg.gif) no-repeat;
+}
