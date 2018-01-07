@@ -1,0 +1,26 @@
+body{
+background: url(../img/h_bg.jpg)no-repeat 30px -88px;
+}
+.yang ul{
+list-style: none;
+}
+.yang li{
+width: 84px;
+float: left;
+text-align: center;
+font-weight: bold;
+line-height: 24px;
+}
+.yang li a{
+padding: 8px 10px;
+text-decoration: none;
+}
+.yang li a:link,
+.yang li a:active,
+.yang li a:visited{
+color: slategray;
+font-size: 13px;
+}
+.yang li a:hover{
+background: url(../img/nav_bg.gif);
+}
