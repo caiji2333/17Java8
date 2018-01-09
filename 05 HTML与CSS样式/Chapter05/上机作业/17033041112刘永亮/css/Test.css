@@ -1,0 +1,135 @@
+﻿body {
+	background: url(../img/h_bg.jpg) no-repeat 24px -5px;
+}
+
+.nav ul {
+	list-style: none;
+}
+
+.nav li {
+	width: 84px;
+	float: left;
+	text-align: center;
+	font: bold;
+	line-height: 185px;
+}
+
+.nav li a {
+	padding: 8px 10px;
+	text-decoration: none;
+}
+
+.nav li a:link,
+.nav li a:active,
+.nav li a:visited {
+	color: #333;
+	font-size: 13px;
+}
+
+.nav li a:hover {
+	background: url(../img/nav_bg.gif) no-repeat;
+}
+
+.top {
+	float: right;
+}
+
+.top_menu ul {
+	list-style: none;
+}
+
+.top_menu li {
+	float: left;
+}
+
+.top_menu ul li a {
+	font: 12px/26px "宋体";
+}
+
+.top_menu ul li a:link {
+	color: #333333;
+	text-decoration: none;
+}
+
+.top_menu ul li a:visited {
+	color: #333333;
+	text-decoration: none;
+}
+
+.top_menu ul li a:active {
+	color: #333333;
+	text-decoration: none;
+}
+
+.top_menu ul li a:hover {
+	color: #ff7300;
+}
+
+.pic1 {
+	width: 28px;
+	height: 26px;
+	background: url(../img/icon.gif) no-repeat;
+}
+
+.pic2 {
+	width: 28px;
+	height: 26px;
+	background: url(../img/icon.gif) no-repeat -28px 0px;
+}
+
+.pic3 {
+	width: 28px;
+	height: 26px;
+	background: url(../img/icon.gif) no-repeat -84px 0px;
+}
+
+.pic4 {
+	width: 28px;
+	height: 26px;
+	background: url(../img/icon.gif) no-repeat -112px 0px;
+}
+
+.text {
+	padding: 0px 5px;
+	text-align: center;
+}
+
+.btn {
+	padding: 0px 5px;
+	text-align: center;
+	width: 38px;
+	height: 26px;
+	background: url(../img/icon.gif) no-repeat 0px -25px;
+}
+
+#right {
+	width: 250px;
+	height: 270px;
+	padding-top: 32px;
+	background: url(../img/bg.gif) no-repeat;
+}
+
+#right dl dt {
+	float: left;
+	margin: 0px;
+	width: 90px;
+	padding: 2px 0px;
+	text-align: center;
+}
+
+#right dl dt img {
+	border: 1px solid #9eaa0a2;
+	width: 60px;
+	height: 47px;
+	vertical-align: middle;
+}
+
+#right dl dd a {
+	font: 12px/47px 宋体;
+	color: #333;
+	text-decoration: none;
+}
+
+#right dl dd a:hover {
+	color: #ff7300;
+}
