@@ -1,0 +1,7 @@
+body{font: normal 12px tahoma "宋体";}
+body,ul,ol,tr,dl,dd,from,input,h1{margin: 0px;padding: 0px;}
+a{color: #333333;text-decoration: none;}
+#container a:hover{color: #FF7300;}
+a img{border: 0px;}
+li{list-style: none;}
+input{border: 1px #ccc solid;height: 17px;width: 131px;}
