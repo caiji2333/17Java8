@@ -1,0 +1,39 @@
+.bug{
+float: right;
+}
+.bug ul{
+ list-style: none;
+}
+.bug li{
+float: left;
+}
+.bug ul li {
+font: 12px/26px 宋体;
+}
+.bug ul li a:link{
+color: #333333;
+text-decoration: none;
+}
+.bug ul li a:visited{
+color: #333333;
+text-decoration: none;
+}
+.bug ul li a:active{
+color: #333333;
+text-decoration: none;
+}
+.bug ul li a:hover{
+color: #ff7300;
+}
+.p1{width: 28px;height: 26px;background: url(../img/icon.gif)}
+.p2{width: 28px;height: 26px;background: url(../img/icon.gif) -28px 0px }
+.p3{width: 28px;height: 26px;background: url(../img/icon.gif) -84px 0px}
+.p4{width: 28px;height: 26px;background: url(../img/icon.gif) -112px 0px}
+.text{padding: 0px 5px; text-align: center;}
+.btn{
+  padding: 0px 5px;
+  text-align: center;
+  width: 38px;
+  height: 26px;
+  background: url(../img/icon.gif)no-repeat 0px -25px;
+}
