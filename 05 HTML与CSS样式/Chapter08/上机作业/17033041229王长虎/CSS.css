@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,div,ol,ul,li,dl,dt,dd{margin:0px; padding:0px; font-size:14px;list-style:none;}
+
+#container{ width:1024px; margin:0px auto;}
+
+
+/* 顶部 */
+#header{ width:1024px;height:150px; background:url(imag/h_bg.jpg) no-repeat;}
+	#logo{width:200px;height:96px;}
+	#menu{width:470px; height:39px;float:right; }
+		#menu li{float:left; line-height:35px;text-align:center;}
+		#menu a{text-decoration:none; color:#000;}
+		#menu a:hover{ color:#F60;}
+		#menu img{ padding-top:5px;}
+		.in{ background:url(imag/btn1.jpg) no-repeat 2px 6px; width:50px; height:80px; }
+	#hello{width:680px;height:40px;float: right; letter-spacing:10px; font-size:15px;clear:right;text-align:center; margin-top:15px;}
+	
+	#nav{width:100%; height:34px; flxzoat:left;padding:13px;}
+		#nav li{ float:left;font-size:14px; width:84px; font-weight:bold; text-align:center;}
+		#nav a{ text-decoration:none; color:#000; }
+		#nav a:hover{ background:url(imag/nav_bg.png) no-repeat; height:90; width:150;}
+
+
+/* 主体 */
+#main{height:660px;background:url(imag/bg1.gif) no-repeat;margin-left:22px}
+	#left{width:190px; height:100%;float:left; padding-left:10px;}
+		#left ul{ padding-top:36px;}
+		#left .fe{ font-size:16px; font-weight:bold; color:#F60; width:200px; height:35px;}
+		#left li{  font-size:13px; line-height:23px; float:left; width:60px;}
+		#left a{color:#000;text-decoration:none;}
+		#left a:hover{ color:#F60;}
+	
+	#center{width:540px; height:100%;float:left; text-align:center; }
+		#center-p{ padding:40px 30px;}
+		#center dl{ width:140px; height:120px; float:left; margin:5px; padding-left:10px;}
+		#center dt{ border:#CCC 1px solid;}
+		#center a{ text-decoration:none; color:#000; }
+		#center a:hover{ color:#f00;}
+	
+	
+	#right{width:240px; height:100%; float:left;}
+		#right a{text-decoration:none; color:#000}
+		#right a:hover{ color:#f00;}
+		#right dl{ padding-top:35px;}
+		#right dt{ width:53px; height:46px; line-height:60px; float:left; border:#ccc 1px solid; margin-left:15px }
+		#right dd{ line-height:60px; float:left; width:160px; font-size:14px; font-weight:bold;}
+	
+/* 底部 */
+#footer{height:100px;text-align:center;}
+#footer a{ text-decoration:none; color:#000;}
+#footer a:hover{ color:#F60;}
+
+
+

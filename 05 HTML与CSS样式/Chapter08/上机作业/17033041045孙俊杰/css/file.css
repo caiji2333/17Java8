@@ -1,0 +1,27 @@
+body{padding: 0px;
+      margin: 0px;
+      font: 12px tahoma;}
+dl,ul,ol,h1{list-style: none;margin: 0px;padding: 0px;}
+a{color: #333333;text-decoration: none;}
+a:hover    {color: #ff7300;}
+a.img{border: 0px;}
+#container{width: 980px;
+          margin: 0 auto;
+          float: none;}
+ /*商品分类列表-主体*/
+.catlist{background:url(../img/catlist_bg.gif) no-repeat;
+         padding-top: 65px;}
+ .catlist td{border-bottom: 1px #ddd dashed;line-height: 30px;}
+ table#main{width: 100%;height: 643px;}
+ /*常用风格*/
+.b{font-weight: bold;}
+.a_c{text-align: center;}
+.a_1{text-align: left;}
+.a_r{text-align: right;}
+.f_1{text-align: left;}
+.f_r{text-align: right;}
+.f_n{text-align: none;}
+/*宽度，w开头代表宽度，h开头为高，p结尾为百分比*/
+.w10p{width: 10%;}
+.w20p{width: 20%;}
+.w50p{width: 50%;}          

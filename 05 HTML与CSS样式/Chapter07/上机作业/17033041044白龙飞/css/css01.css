@@ -1,0 +1,41 @@
+div {font: bold 36px;黑体;color: #fff;}
+#container {width: 980px;margin: 0px auto;}
+#header {width: 100%;height: 136px;	background: url(../img/h_bg.jpg) no-repeat -20px 0px;}
+#main {widows: 10%;height: 641px;}
+#footer {width: 100%; height: 150px;text-align: center;line-height: 20px;clear: both;float: left;}
+#cat{float: left;width: 20%;height: 100%;margin: 0px 0px 0px -670px;background: url(../img/bg.gif) no-repeat 0px -10px;}
+.content{float: left;width: 20%;height: 100%;margin: 0px 0px 0px -476px;}
+.sidebar {float: left;width: 20%;height: 100%;}
+.sidebar {background: blue;}
+.content {width: 60%;background: red;}
+.top_menu {float: right;}
+.top_menu ul {list-style: none;}
+.top_menu li {float: left;}
+.top_menu ul li a {font: 12px/26px 宋体;}
+.top_menu ul li a:link {color: #333333;text-decoration: none;}
+.top_menu ul li a:visited {color: #333333;text-decoration: none;}
+.top_menu ul li a:active {color: #333333;text-decoration: none;}
+.top_menu ul li a:hover {color: #ff7300;}
+.pic1 {width: 28px;height: 26px;background: url(../img/icon.gif)no-repeat;}
+.pic2 {width: 28px;height: 26px;background: url(../img/icon.gif)no-repeat -28px 0px;}
+.pic3 {width: 28px;height: 26px;background: url(../img/icon.gif)no-repeat -84px 0px}
+.pic4 {width: 28px;height: 26px;background: url(../img/icon.gif)no-repeat -112px 0px}
+.text {padding: 0px 5px;text-align: center;}
+.btn {padding: 0px 5px;text-align: center;width: 38px;height: 26px;background: url(../img/icon.gif) no-repeat 0px -25px;}
+.nur ul {list-style: none;float: left;padding: 42px 0px 0px 0px;}
+.nur li {width: 84px;float: left;text-align: center;font-weight: bold;line-height: 24px;}
+.nur li a {padding: 8px 10px;text-decoration: none;}
+.nur li a:link,
+.nur li a:visited {color: #333;font-size: 13px;}
+.nur li a:hover {background: url(../img/nav_bg.gif) no-repeat;}
+.nur li a:active
+
+#cat ul{}
+#cat .fe{font: bold 14px 宋体;color: #FF7300;width:200px;height: 35px;}
+#cat li{font: 12px;color: #636362;line-height 23px;width: 60px; float: left;list-style: none;}
+#cat a{color:#636362;text-decoration: none;}
+
+#cat ul li a:link {color: #333333;text-decoration: none;}
+#cat ul li a:visited {color: #333333;text-decoration: none;}
+#cat ul li a:active {color: #333333;text-decoration: none;}
+#cat ul li a:hover {color: #ff7300;}
