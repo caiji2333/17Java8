@@ -1,0 +1,43 @@
+body{
+pddding:0px;
+margin: :0px;
+font: 12px;Tahoma;}
+dl,ul,ol,h1{list-style: :none;margin: 0px;padding: 0px;}
+a.{color:#333333;text-decoration: none;}
+a:hover {color: #ff7300;}
+a.img{border: 0px;}
+#container{
+width: 980px;
+margin: 0 auto;
+float:none}
+#header {
+width: 100%;
+height: 136px;
+background: url(.)no-repeat -22px 0px;}
+#logo{
+width: 100%;
+height: 136px;
+float: left;
+backgrount:url(.)}
+.upright_menu{width:45%;height:28px;float:right;padding:13px 0px 0px 0px;}
+.upright_menu ul li{float:left;font:12px/28px 宋体}
+.pic{width:45%;height:28px;background:url()no-repeat;}
+pic2{background-possition:-28px 0px;}
+pic3{background-possition:-84px 0px;}
+pic4{background-possition:-112px 0px;}
+.h_text_bottom{padding: 0px 5px;text-align: center;}
+.btn{width:38px;background-possition:0px -25px;}
+.upright_bottom{width: 62%;float: right;}
+.hello{padding-top:36px;color: #636362;letter-spacing: 3px;}
+.nav{clear: both;width: 100%;}
+.nav li{
+width: 84px;
+float: left;
+text-align: center;
+font-weight: bold;}
+.nav li a{
+padding: 8px 10px ;line-height: 32px;
+color: #333;
+font-size: 14px;}
+.nav ul li a:()no-repeat;
+}

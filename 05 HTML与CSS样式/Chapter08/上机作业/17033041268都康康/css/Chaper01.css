@@ -1,0 +1,35 @@
+
+/*商品分类列表页*/
+table#main hr{border: 1px;  #CCCCCC dashed;}
+imgborder{border: 2px;#ddd solid;}
+
+
+
+/*商品信息表*/
+.good{width: 100%;}
+.good h1{
+      width: 100px;height: 40px;
+      background: url(../img/goodtitle_bg.gif) repeat-x 0px -3px; 
+border-bottom: 1px solid #dddddd;
+font: bold 14px/40px 宋体;
+text-align: center;
+}
+.good ul{width: 350px; padding-right: 35px;}
+.bigimg{padding: 15px 0px;}
+     .bigimg img{border: 1px; #ccc solid}
+  .smallimg{float:left;width:65px;}
+  .smallimg img{border: 2px #ddd solid;align-content: center;}
+.op{width: 175px;}
+.goodinfo{letter-spacing: 0.5px;
+line-height: 30px;
+float: right;
+}
+.goodinfo li{border-bottom: 1px #ddd dashed;}
+li.buynow{height: 74px;line-height: 74px; border: 0px;}
+li.buynow img{padding: 17px; 0px; vertical-align: middle;}
+li.onlinepay{background: #FFFFED url(../img/onlinepay.gif) no-repeat 5px 8px;
+border:1px solid #DDCF8F
+line-height:16px;
+padding:5px 0px 3px 76px;
+}
+.goodinfo li span{padding-left: 15px;}
